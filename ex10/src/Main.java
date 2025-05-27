@@ -1,6 +1,9 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+//que merda que eu fiz nesse codigo ?
+
+
 public class Main {
     public static void main(String[] args) {
 
